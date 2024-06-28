@@ -1,2 +1,2 @@
 # ConversorTerm
-Conversor de escalas termometricas
+Conversor de escalas termométricas
